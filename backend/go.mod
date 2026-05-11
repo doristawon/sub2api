@@ -1,6 +1,6 @@
 module github.com/Wei-Shaw/sub2api
 
-go 1.26.2
+go 1.26.3
 
 require (
 	entgo.io/ent v0.14.5
@@ -41,7 +41,7 @@ require (
 	go.uber.org/zap v1.24.0
 	golang.org/x/crypto v0.49.0
 	golang.org/x/image v0.39.0
-	golang.org/x/net v0.52.0
+	golang.org/x/net v0.53.0
 	golang.org/x/sync v0.20.0
 	golang.org/x/term v0.41.0
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
